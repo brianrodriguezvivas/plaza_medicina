@@ -1,0 +1,7 @@
+Total de entregas procesadas: 10
+Ciudades con más entregas pendientes:
+- Sevilla: 1
+- Malaga: 1
+- Granada: 1
+- Vigo: 1
+Monto total de entregas realizadas: 2402.50
