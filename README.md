@@ -92,4 +92,4 @@ Sigue estos pasos para instalar y configurar el proyecto:
 
 ## Documentación Adicional
 
-Para obtener más información sobre las clases y métodos disponibles, consulta la [documentación completa](Docs/Entrevista.docx).
+Para obtener más información sobre las clases y métodos disponibles, consulta la [documentación completa](Docs).
