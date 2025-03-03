@@ -84,8 +84,8 @@ Sigue estos pasos para instalar y configurar el proyecto:
 
 ## Contacto
 
-- **Autor**: [Brian Journeyt Rodriguez Vivas ]
-- **Correo**: [brianjourneytrodriguezvivas@gmial.com]
+- **Autor**: Brian Journeyt Rodriguez Vivas 
+- **Correo**: brianjourneytrodriguezvivas@gmial.com
 - **Repositorio**: [https://github.com/brianrodriguezvivas/plaza_medicina](https://github.com/brianrodriguezvivas/plaza_medicina)
 
 
